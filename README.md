@@ -14,6 +14,7 @@ https://careers.google.com/how-we-hire/
 
 ### Web Developer
 - Front-End Developer
+- - HTML5, CSS3, JavaScript, TypeScript, React.js, Redux, AngularJS, Vue.js, Backbone.js, Git
 - Back-End Developer
 - - JavaScript, Node.js, React.js, Go, Jav, Python, TypeScript, SQL, MongoDB, HTML, CSS
 - Full-Stack Developer
