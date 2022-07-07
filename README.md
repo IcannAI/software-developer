@@ -7,8 +7,10 @@
 - Train a computer to recognize my own images, sounds, & poses. I am interested in Machine Learning and Artificial Intelligence (AI), and check out Google AI Experiments.
 - Create games & digital arts
 - Adding cool scrolling effect on my website like Apple's landing page
-- 
+
+
 **"No, a CS degree isn't required for most of our software engineering or product manager roles." by Google**
+https://careers.google.com/how-we-hire/
 
 ### Web Developer
 - Front-End Developer
