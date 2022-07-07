@@ -17,6 +17,7 @@ https://careers.google.com/how-we-hire/
 - Back-End Developer
 - - JavaScript, Node.js, React.js, Go, Jav, Python, TypeScript, SQL, MongoDB, HTML, CSS
 - Full-Stack Developer
+- - Kotlin, Java, React.js, Android SDK, Android Studio, Gradle, Espresso, Git
 - React / Vue / Angular Developer
 
 ## Mobile App Developer
