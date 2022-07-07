@@ -8,7 +8,7 @@
 - Create games & digital arts
 - Adding cool scrolling effect on my website like Apple's landing page
 
-- "No, a CS degree isn't required for most of our software engineering or product manager roles." - Google
+****"No, a CS degree isn't required for most of our software engineering or product manager roles." - Google
 
 ### Web Developer
 - Front-End Developer
