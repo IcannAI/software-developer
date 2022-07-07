@@ -15,6 +15,7 @@ https://careers.google.com/how-we-hire/
 ### Web Developer
 - Front-End Developer
 - Back-End Developer
+- - JavaScript, Node.js, React.js, Go, Jav, Python, TypeScript, SQL, MongoDB, HTML, CSS
 - Full-Stack Developer
 - React / Vue / Angular Developer
 
